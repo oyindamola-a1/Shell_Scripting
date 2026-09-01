@@ -1,0 +1,9 @@
+What is shell? 
+
+A uniq shell program interprets user commands which are either directly entered by the user or which can be read from a file called shell scripts or shell program. 
+
+ - Shell scripts are not combined. 
+ - To check what kind of shell type, your operating system support - cat /etc/shells
+ - sh stands for bourne shell
+ - bash stands for bourne again shell 
+ - creating a new file which is a shell or script file  

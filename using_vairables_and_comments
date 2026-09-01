@@ -1,0 +1,7 @@
+Vairables are containers which stores data inside them, which can be a string data or any other kind of data. 
+
+
+**TWO TYPES OF DATA**
+
+ - System vairables - They are created and maintained by linux or uniq operating system.
+ - User-defined vairables - They are created and maintained by users like us and they are generally defined in lower cases.     

@@ -1,0 +1,14 @@
+[-e] is to check if the exist or not 
+
+[-f] is to know if the file exist and it's regular 
+
+[-d] is to check directories 
+
+
+**There are two types of files**
+
+ - Block special file - it's a binary file or a picture file which you can use the flag [-b] for block special file 
+
+ - Character special file - it's a normal file which contains some text or data. You can use the flag [-c] for character special file.
+
+ - The flag to check if the file is empty or not is [-s]      
