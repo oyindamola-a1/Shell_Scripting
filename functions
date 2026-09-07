@@ -1,0 +1,7 @@
+A function is a subroutine that implement a set of operations to make scripts easier to maintain. 
+
+ - functions must be explicitly called by name within the scripts to execute. 
+
+ - The sequence of execution is determined by the order in which they are called not the order in which they are defined 
+
+ - Functions can accept parameters which are accessed inside the code block using special  variables  

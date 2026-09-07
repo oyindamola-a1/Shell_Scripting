@@ -1,0 +1,9 @@
+ - All vairables in a shell script are global meaning they can be accessed from where in the script by default.
+
+ - A function can overwrite a global vairable which often leads to unintended side effects when the same vairable is needed later in the script with it original value without restrictions. 
+
+ - Using the keyword 'local' before a vairable declearation inside a function restricts that vairable scope 
+
+ - It ensures the vairable exists only within that specific function preventing it from affecting or being affected by vairables with the same name elsewhere in the scripts. 
+
+    

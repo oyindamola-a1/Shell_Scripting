@@ -1,0 +1,8 @@
+The break statement is used to exit the current loop before it normal execution.
+
+ - Whenever you want to break out of the loop prematurely you use the break statement.
+
+ - The continue statement is used to skip the remainder of the current iteration and immediately proceed to the next one.
+
+ - when the condition is true the continue keyword triggers causing the scripts to skip the 'echo' command for those specific numbers 
+
