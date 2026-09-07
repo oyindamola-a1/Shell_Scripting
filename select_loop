@@ -1,0 +1,5 @@
+The 'select' loop is frequently combine with 'case' statements ro handle different user inputs, it allows for complex logic ehrer specific commands are executed based on the chosen  menu item.
+
+ - You can define a default case within the 'case' statement to handle invalid inputs, to exit the menu the user must press Ctrl+C
+
+The rest were practicals  
