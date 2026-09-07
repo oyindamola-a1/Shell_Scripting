@@ -1,0 +1,4 @@
+Arrays are created using parentheses with space seperated values
+
+ - Elements can be added or updated by assigning a value to a specific index
+ - Bash allows any vairables to be treated as an array, if you assign a standard string to a vairable it is automatically stored at zeroth index 

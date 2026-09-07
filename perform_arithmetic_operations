@@ -1,0 +1,7 @@
+To perform calculations , you must use specific syntax to force the shell to evaluate the numbers. There are two ways to go about it,
+
+ - THE DOUBLE PARENTHESES METHOD - It is the recommended and mordern way to handle integer arithmetic in bash 
+
+ - THE 'expr' COMMAND - It is an older and alternative method for ferforming calculations.
+
+The rest were explanations

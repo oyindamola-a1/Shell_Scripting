@@ -1,0 +1,6 @@
+ - Using the 'sleep' command - You can introduce a delay in your script's execution
+
+ - Opening terminal windows - You can progranmatically launvh new terminalwindows from your scripts
+
+ - Forgetting to increment a counter or provide a proper exit condition can result in an infinite loop   
+

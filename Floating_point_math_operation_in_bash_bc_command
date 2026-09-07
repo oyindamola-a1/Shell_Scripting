@@ -1,0 +1,5 @@
+bc command means Basic calculator
+
+**you can perform subtraction, addition, multiplication, division and modulus by using the BC command, the bc comes with the linux distribution , it's an arbitary precision calculator language.** 
+
+You can use pass shell vairables into th bc command , you can further details on bc features such as logical operations  

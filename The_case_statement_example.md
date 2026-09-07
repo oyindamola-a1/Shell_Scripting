@@ -1,0 +1,4 @@
+ - [a-z] - atches any lower case letter
+ - [A-Z] - matches any uppercase letter 
+ - [0-9] - matches any single integer 
+ - [?] - Acts as a wildcard for any special character 

@@ -1,0 +1,6 @@
+Input redirection - This method uses the "read" command within a 'while' loop, redirecting the file content 
+
+ - Using Pipes and 'cat' - By piping the output of the 'cat' command into a 'while' loop the file content is processed as input,allowing the 'read' command to capture and display the file contents.
+
+
+ - Using 'IFS' - [INTERNAL FIELD SEPERATOR] This approach helpd handle special characters 	  

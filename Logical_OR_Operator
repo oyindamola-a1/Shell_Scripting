@@ -1,0 +1,10 @@
+There are three ways to use the Logical OR 
+
+ - Double brackets with Double pipes - using [[ condition1 || condition2 ]] is a way to evaluate multiple expressions.
+
+ - Single Bracket with the [-o] flag -  you can use the [-o] inside a single square bracket.
+
+ - Double bracket with seperated condition - the [ || ] is place between two seperate double bracket statements.
+
+
+**The rest were practicals**
