@@ -1,0 +1,5 @@
+ - UNTIL loops are similare to WHILE loops but it executes commands until the specified condition becomes true 
+
+ - It uses the UNTIL keyword followed by a condition within square brackets or double parentheses.
+
+ - The rest were practical explaniations 
